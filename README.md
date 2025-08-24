@@ -1,6 +1,6 @@
 # loto_anjo
 
-A new Flutter project.
+app que mostra ultimos resultados das loterias e sugere numeros para jogar.
 
 ## Getting Started
 
